@@ -114,9 +114,16 @@ export class VectorStore {
     let normB = 0;
 
     for (let i = 0; i < a.length; i++) {
-      dotProduct += a[i] * b[i];
-      normA += a[i] * a[i];
-      normB += b[i] * b[i];
+      // The non-null assertion is safe here because we loop up to a.length
+      // and we previously checked that a.length === b.length.
+      // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+      const valA = a[i]!;
+      // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+      const valB = b[i]!;
+
+      dotProduct += valA * valB;
+      normA += valA * valA;
+      normB += valB * valB;
     }
 
     const denominator = Math.sqrt(normA) * Math.sqrt(normB);

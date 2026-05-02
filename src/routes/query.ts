@@ -66,7 +66,7 @@ router.post("/query", queryRateLimiter, async (req, res): Promise<void> => {
       // Return the first validation error as a clean 400 response.
       const firstError = parsed.error.issues[0];
       res.status(400).json({
-        error: firstError.message,
+        error: firstError?.message || "Validation failed",
       });
       return;
     }

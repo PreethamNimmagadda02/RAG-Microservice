@@ -22,7 +22,12 @@ export async function embedText(text: string): Promise<number[]> {
     input: text,
   });
 
-  return response.data[0].embedding;
+  const firstResult = response.data[0];
+  if (!firstResult) {
+    throw new Error("Embedding API returned an empty data array.");
+  }
+
+  return firstResult.embedding;
 }
 
 /**

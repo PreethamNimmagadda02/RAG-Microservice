@@ -86,7 +86,7 @@ router.post("/ingest", ingestRateLimiter, async (_req, res): Promise<void> => {
       const firstError = parsed.error.issues[0];
       res.status(400).json({
         error: "FAQ data validation failed.",
-        details: `${firstError.path.join(".")}: ${firstError.message}`,
+        details: firstError ? `${firstError.path.join(".")}: ${firstError.message}` : "Unknown validation error",
         latency_ms: hrtimeToMs(start),
       });
       return;

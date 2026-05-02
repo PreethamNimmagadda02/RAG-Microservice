@@ -380,6 +380,7 @@ Each FAQ item becomes **one chunk**: `"Q: {question}\nA: {answer}"`.
 | `EMBEDDING_MODEL` | `BAAI/bge-large-en-v1.5` | DeepInfra model for embeddings |
 | `LLM_MODEL` | `meta-llama/Meta-Llama-3-8B-Instruct` | DeepInfra model for answer generation |
 | `TOP_K_DEFAULT` | `3` | Default number of chunks to retrieve |
+| `MIN_SCORE` | `0.4` | Minimum cosine similarity score threshold |
 | `RATE_LIMIT_QUERY_WINDOW_MS` | `60000` | Rate limit window for `/query` (ms) |
 | `RATE_LIMIT_QUERY_MAX` | `20` | Max `/query` requests per window per IP |
 | `RATE_LIMIT_INGEST_WINDOW_MS` | `60000` | Rate limit window for `/ingest` (ms) |
