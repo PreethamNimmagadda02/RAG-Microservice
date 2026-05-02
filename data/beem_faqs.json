@@ -1,0 +1,122 @@
+[
+    {
+        "id": "FAQ-001",
+        "category": "everdraft",
+        "question": "What is Everdraft and how does it work?",
+        "answer": "Everdraft is Beem's flagship instant cash advance product. It lets eligible users access up to $500 of their earned wages before their actual payday, with no interest charges and no credit check. Once your direct deposit is set up with Beem, the system analyzes your deposit history to determine your advance limit. Funds typically arrive in your Beem account within seconds of requesting an advance. Repayment is automatic — when your next paycheck deposits, Beem recovers the advanced amount first."
+    },
+    {
+        "id": "FAQ-002",
+        "category": "everdraft",
+        "question": "What is the maximum cash advance I can get with Everdraft?",
+        "answer": "The maximum Everdraft advance is $500 per pay cycle. Your personal limit may be lower based on your direct deposit history with Beem. New users typically start at a lower limit (often $50–$100) and can unlock higher limits after consistent paycheck deposits over 2-3 pay cycles. Beem uses its proprietary AI credit model to assess your limit — no FICO score is required."
+    },
+    {
+        "id": "FAQ-003",
+        "category": "everdraft",
+        "question": "Are there fees or interest on Everdraft advances?",
+        "answer": "Everdraft has no mandatory fees and charges zero interest. Beem offers an optional tip when you take an advance — this is entirely voluntary and does not affect your eligibility or limit. There is no late fee if your paycheck is delayed, though Beem will attempt to recover the advance on your next deposit. Beem never charges overdraft fees on Everdraft repayment."
+    },
+    {
+        "id": "FAQ-004",
+        "category": "everdraft",
+        "question": "How quickly can I receive an Everdraft advance?",
+        "answer": "Everdraft advances are processed instantly within the Beem app for eligible users. Once approved, funds appear in your Beem account within seconds. If you need to transfer the funds to an external bank account, standard ACH transfers take 1-3 business days. Beem offers an instant transfer option to eligible debit cards (Visa/Mastercard) for an optional express fee, typically delivering funds within 30 minutes."
+    },
+    {
+        "id": "FAQ-005",
+        "category": "everdraft",
+        "question": "Why was my Everdraft advance declined?",
+        "answer": "Common reasons for Everdraft declines include: your direct deposit has not been active with Beem for a full pay cycle yet; your last paycheck was below Beem's minimum threshold; you have an outstanding unpaid advance from a previous cycle; your account has been flagged for unusual activity; or your employer's payroll schedule is irregular or variable. If you believe the decline is in error, contact Beem support through the app."
+    },
+    {
+        "id": "FAQ-006",
+        "category": "everdraft",
+        "question": "Can I get multiple Everdraft advances in the same pay period?",
+        "answer": "No. Everdraft allows one outstanding advance per pay cycle. You must repay the current advance (which happens automatically when your paycheck deposits) before a new advance can be issued. However, once repaid, you can immediately request a new advance up to your current limit for the next pay cycle."
+    },
+    {
+        "id": "FAQ-007",
+        "category": "direct_deposit",
+        "question": "Is my Beem account FDIC insured?",
+        "answer": "Yes. Beem's direct deposit accounts are FDIC-insured up to $250,000 per depositor through Beem's banking partner. This means your deposits are protected even if Beem's banking partner were to fail. The FDIC insurance covers your principal balance and any accrued interest. Beem itself is a financial technology company, not a bank — banking services are provided by its FDIC-member partner institution."
+    },
+    {
+        "id": "FAQ-008",
+        "category": "direct_deposit",
+        "question": "How do I set up direct deposit with Beem?",
+        "answer": "To set up direct deposit: open the Beem app, go to Account > Direct Deposit, and tap 'Get Routing & Account Number'. Share your Beem routing number and account number with your employer's payroll department or HR system. Most employers process direct deposit changes within 1-2 pay cycles. You can also download a pre-filled direct deposit form from the app. Once your first paycheck arrives, Beem will notify you and activate your Everdraft eligibility review."
+    },
+    {
+        "id": "FAQ-009",
+        "category": "direct_deposit",
+        "question": "Can I use Beem as my primary bank account?",
+        "answer": "Yes. Beem's direct deposit account functions as a full spending account. You receive a Beem Visa debit card for purchases and ATM withdrawals, a routing number and account number for direct deposits and bill payments, access to a network of 55,000+ fee-free ATMs, and the ability to send and receive money via ACH or peer-to-peer transfer within the Beem app. Beem does not currently offer savings accounts, checks, or wire transfers."
+    },
+    {
+        "id": "FAQ-010",
+        "category": "credit_building",
+        "question": "How does Beem's credit building feature work?",
+        "answer": "Beem's credit building feature reports your on-time payment history to all three major credit bureaus (Equifax, Experian, TransUnion). Each month Beem is your active banking app, your responsible account usage is reported as a positive tradeline. Unlike secured credit cards, there is no deposit required and no hard inquiry. Most users see their credit score move within 30-90 days of consistent use. Beem's AI credit model uses alternative data (income stability, spending patterns, deposit regularity) rather than your FICO score."
+    },
+    {
+        "id": "FAQ-011",
+        "category": "credit_building",
+        "question": "Does Beem perform a hard credit inquiry when I sign up?",
+        "answer": "No. Beem never performs a hard credit inquiry at signup or when determining your Everdraft limit. Beem uses a soft pull for identity verification purposes only, which does not affect your credit score. This is a core part of Beem's mission to serve underbanked users who may have thin or damaged credit files — your FICO score is irrelevant to your Beem eligibility."
+    },
+    {
+        "id": "FAQ-012",
+        "category": "credit_building",
+        "question": "How long does it take to see credit score improvement with Beem?",
+        "answer": "Credit score changes typically appear within 30-90 days of Beem's first bureau report. The speed and magnitude of improvement depends on your starting credit profile. Users with thin files (limited credit history) often see the fastest and largest gains — sometimes 20-40 points within 3 months. Users with existing derogatory marks (missed payments, collections) improve more gradually. Beem reports to bureaus on the 1st of each month for the prior month's activity."
+    },
+    {
+        "id": "FAQ-013",
+        "category": "cashback",
+        "question": "How does the Beem cashback rewards program work?",
+        "answer": "Beem offers cashback on purchases made with your Beem Visa debit card at participating merchants. Cashback rates vary by merchant category — typically 1-5% at featured partners and 0.5% on general purchases. Cashback is credited to your Beem account within 3-5 business days of the qualifying transaction settling. There is no minimum redemption threshold; cashback accumulates and can be spent as cash in your Beem account. Eligible categories include dining, groceries, gas, and select retail partners."
+    },
+    {
+        "id": "FAQ-014",
+        "category": "cashback",
+        "question": "Is there a limit on how much cashback I can earn?",
+        "answer": "Beem does not cap total cashback earnings. However, individual merchant partner promotions may have per-transaction or monthly earning caps — these are clearly disclosed in the Beem Deals section of the app before you activate a deal. Standard 0.5% base cashback on general purchases has no limit. Enhanced cashback rates on featured merchants are typically capped at $50/month per merchant unless otherwise stated."
+    },
+    {
+        "id": "FAQ-015",
+        "category": "account_management",
+        "question": "What should I do if my Beem card is lost or stolen?",
+        "answer": "Immediately lock your Beem card through the app: go to Card > Lock Card to freeze all transactions instantly. Report the loss via the in-app chat or by calling Beem support. Beem will issue a replacement card (virtual card available immediately, physical card in 5-7 business days). If you identify unauthorized transactions, dispute them in the app within 60 days. Beem's Zero Liability policy means you are not responsible for unauthorized charges if reported promptly."
+    },
+    {
+        "id": "FAQ-016",
+        "category": "account_management",
+        "question": "How do I close my Beem account?",
+        "answer": "To close your Beem account: ensure any outstanding Everdraft advance is repaid (this happens automatically on your next paycheck, or you can manually repay via the app). Redeem any pending cashback. Transfer your remaining balance to an external bank account via ACH. Then contact Beem support to initiate account closure. Account closure is processed within 3-5 business days. Beem will send a final account statement to your registered email. Closure does not affect credit bureau reporting for the current month — Beem's final report will reflect your account status at closure."
+    },
+    {
+        "id": "FAQ-017",
+        "category": "security",
+        "question": "How does Beem protect my financial data?",
+        "answer": "Beem uses bank-level 256-bit AES encryption for all stored data and TLS 1.3 for data in transit. The app supports biometric authentication (Face ID / fingerprint) and optional PIN. Beem is SOC 2 Type II certified, meaning its security controls are independently audited annually. Beem never sells your financial data to third parties. Transaction data is used internally to power AI credit models and personalized features. Beem complies with PCI DSS Level 1 for all card data handling."
+    },
+    {
+        "id": "FAQ-018",
+        "category": "security",
+        "question": "What is Beem's policy on sharing my data with third parties?",
+        "answer": "Beem shares your data only in the following circumstances: with its FDIC-member banking partner to provide banking services; with credit bureaus as part of the credit-building feature (opt-in); with payment processors to execute your transactions; and when required by law or regulatory order. Beem does not sell, rent, or share your personal financial data with advertisers or data brokers. You can review Beem's full data sharing policy in the app under Settings > Privacy."
+    },
+    {
+        "id": "FAQ-019",
+        "category": "eligibility",
+        "question": "Who is eligible to use Beem?",
+        "answer": "Beem is available to US residents aged 18 or older with a valid Social Security Number or Individual Taxpayer Identification Number. You must have a US-based employer or consistent income source. Beem does not require a minimum credit score or credit history. Users must complete identity verification (KYC) via the app, which includes a government-issued ID scan and selfie verification. Beem is currently available in all 50 US states."
+    },
+    {
+        "id": "FAQ-020",
+        "category": "eligibility",
+        "question": "Can I use Beem if I am self-employed or a gig worker?",
+        "answer": "Yes. Beem explicitly supports gig workers, freelancers, and self-employed individuals. Instead of employer payroll direct deposit, you can link your gig platform income (Uber, DoorDash, Instacart, etc.) or set up direct deposit from your business account. Everdraft eligibility for non-traditional workers requires at least 3 consistent income deposits over a 60-day period. Your advance limit will be calculated based on average deposit amounts rather than a fixed salary."
+    }
+]
